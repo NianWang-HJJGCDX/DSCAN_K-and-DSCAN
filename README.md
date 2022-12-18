@@ -1,2 +1,2 @@
-# PGDN
-The relevant code and data of Prior Guided Dehazing Network (PGDN) Based on Online Knowledge Distillation will be available after publication.
+# Doubly Stochastic Clustering with Adaptive Neighbors
+The relevant code and data of this paper will be available after publication.
